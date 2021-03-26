@@ -1,7 +1,7 @@
 # AlaskaGreedKata
 
 ## Questions that you came up with
-###### -Do we want to create a random array of elements? In the end, for simplicyty sake I intialized my own arrays of ints in main. The same used in the example file.
+###### -Do we want to create a random array of elements? In the end, for simplicyty sake I intialized my own arrays of ints in main. The same used in the example file. I do have a block of code to support having a random array of ints from 1 -6.
 ###### -Do we want to document the program? I went ahead and made comment documentation of how my program works.
 
 ## Assumptions you made
