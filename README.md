@@ -11,4 +11,5 @@
 ## The different paths or solutions you contemplated
 ###### -First thought was to look for specific numbers values (1-6) in the orginal initialized array.
 ###### -I thought the best way to tackle the intialized array was to count how many of each values (1-6) were present.
+###### -Consider how you would count the dice in a real-life game if you were to throw five dice. I'd physically move the dice of the same number together.
 
